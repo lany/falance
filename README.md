@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> Add license and gitignore etc.
 falance
 =======
 
