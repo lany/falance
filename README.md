@@ -1,4 +1,4 @@
 falance
 =======
 
-An ongoing finacial project based on Node.js.
+An ongoing finacial app based on Node.js.
